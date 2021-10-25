@@ -9,19 +9,24 @@ Nele consigo fazer o cadastro de um produto utilizando algumas linhas solicitada
 ## Demonstração: 
 
 Nesta tela podemos observar a janela modelada via **QT Designer** sem preenchimento dos campos:
-https://github.com/WellingtonOliveira95/dados_bd/blob/master/assets/tela_inicial_vazia.PNG
+
+<img src = "assets/tela_inicial_vazia.PNG" width="300">
 
 Já aqui, observa-se o banco de dados vazio:
-https://github.com/WellingtonOliveira95/dados_bd/blob/master/assets/tela_inicialbd_vazia.PNG
 
-Após preencher os campos e clicar em "Enviar":
-https://github.com/WellingtonOliveira95/dados_bd/blob/master/assets/tela_inicial_preenchida.PNG
+<img src = "assets/tela_inicialbd_vazia.PNG" width="800">
 
-Podemos ver o banco de dados atualizado automaticamente:
-https://github.com/WellingtonOliveira95/dados_bd/blob/master/assets/tela_inicialbd_preenchida.PNG
+Após o preenchimendo dos campos na janela do **QT Designer** e clicar em "Enviar":
+
+<img src = "assets/tela_inicial_preenchida.PNG" width="300">
+
+Podemos ver o banco de dados atualizado automaticamente na imagem abaixo:
+
+<img src = "assets/tela_inicialbd_preenchida.PNG" widht="800">
 
 Também abaixo segue execução pelo Python:
-https://github.com/WellingtonOliveira95/dados_bd/blob/master/assets/tela_inicial_preenchida_python.PNG
+
+<img src = "assets/tela_inicial_preenchida_python.PNG" widht="800">
 
 
 ## Autor:
