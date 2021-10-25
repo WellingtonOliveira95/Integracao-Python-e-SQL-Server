@@ -30,5 +30,6 @@ Também abaixo segue execução pelo Python:
 
 
 ## Autor:
-Wellington Oliveira.
+Wellington Oliveira,
+
 Linkedin: https://www.linkedin.com/in/wellingtonsoliveira/
