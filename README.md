@@ -1,4 +1,4 @@
-# Projeto Python análise COVID-19
+# PROJETO PYTHON INTEGRADO COM BANCO DE DADOS
 [![GitHub license](https://img.shields.io/github/license/WellingtonOliveira95/dados_bd)](https://github.com/WellingtonOliveira95/dados_bd/blob/master/LICENSE)
 
 ## Sobre o projeto:
